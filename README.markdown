@@ -1,12 +1,12 @@
 # Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"> <br> I'm Amir Sheikhmagomedov
 
-## About me 🔥
+## About me 👨‍💻
 
 Self-taught <b>front-end developer</b> with strong knowledge of web development. Write user-friendly web interfaces, constantly practicing and learning new technologies. Have problem solving skills and can troubleshoot problems effectively. I am communicative, express myself clearly and concisely, and speak fluent English. Appreciate constructive criticism and constantly strive for personal and professional development. Ready to contribute to the team and actively develop.
 
 <br>
 
-## Tech Stack 💻
+## Tech Stack 🔥
 
 <span>
 	<img align="top" src="assets/nextjs.svg"/>&nbsp;
