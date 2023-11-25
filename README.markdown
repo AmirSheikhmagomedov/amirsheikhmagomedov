@@ -6,7 +6,7 @@ Self-taught <b>front-end developer</b> with strong knowledge of web development.
 
 <br>
 
-## Tech Stack &nbsp;<img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="5%" align="top">
+## Tech Stack 💻
 
 <span>
 	<img align="top" src="assets/nextjs.svg"/>&nbsp;
@@ -96,7 +96,7 @@ Self-taught <b>front-end developer</b> with strong knowledge of web development.
 <br>
 <br>
 
-## Contact &nbsp;<img src="assets/contact.png" width="4%" align="top">
+## Contact 📞
 
 <span>
 	<img align="top" src="assets/telegram.svg"/>&nbsp;
